@@ -45,9 +45,16 @@ padding-right = 2
 module-margin-left = 1
 module-margin-right = 2
 
+
+;---------This is the font section ---------
 font-0 = fixed:pixelsize=10;1
 font-1 = unifont:fontformat=truetype:size=8:antialias=false;0
 font-2 = siji:pixelsize=10;1
+font-3 = FontAwesome5Free:style=Solid:size=10;4
+font-4 = FontAwesome5Free:style=Regular:size=10;4
+font-5 = FontAwesome5Brands:style=Regular:size=10;4
+;-------------------------------------------
+
 
 modules-left =  i3
 modules-center = date 
