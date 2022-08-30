@@ -1,0 +1,8 @@
+alias n='nvim'
+alias c='clear'
+alias sb='sudo brightnessctl s'
+alias ctrl='setxkbmap -option ctrl:nocaps ;xcape -e 'Control_L=Escape''
+alias conv1='echo 1 | sudo tee /sys/bus/platform/drivers/ideapad_acpi/VPC2004:00/conservation_mode'
+alias conv0='echo 0 | sudo tee /sys/bus/platform/drivers/ideapad_acpi/VPC2004:00/conservation_mode'
+alias kil='killall'
+alias i3c='nvim ~/.config/i3/config'
