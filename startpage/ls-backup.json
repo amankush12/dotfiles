@@ -1,0 +1,202 @@
+{
+  "yags-general": {
+    "img": "https://i.gifer.com/7gxM.gif",
+    "title": "Hello! Mr. Aman",
+    "displayImg": true,
+    "font": "Quicksand",
+    "enableFonts": false
+  },
+  "yags-search": {
+    "placeholder": "Search the web",
+    "engine": "google",
+    "forwardingLookup": {
+      "YouTube": "https://www.youtube.com"
+    }
+  },
+  "yags-theme": {
+    "inverted": false,
+    "color": {
+      "name": "custom",
+      "bg": {
+        "shade": "#1A1A1A",
+        "base": "#212121",
+        "surface": "#282828",
+        "highlight": "#2E2E2E"
+      },
+      "fg": {
+        "shade": "#949494",
+        "base": "#B9B9B9",
+        "surface": "#DEDEDE",
+        "highlight": "#FFFFFF"
+      },
+      "primary": {
+        "bg": "#2D3975",
+        "base": "#7986CB",
+        "fg": "#EEEFF8"
+      },
+      "secondary": {
+        "bg": "#1C2556",
+        "base": "#3949AB",
+        "fg": "#818DD5"
+      },
+      "palette": {
+        "red": "#E06C75",
+        "green": "#98C379",
+        "yellow": "#E5C07B",
+        "blue": "#61AFEF",
+        "purple": "#C678DD",
+        "cyan": "#56B6C2",
+        "orange": "#FFBB7C"
+      }
+    },
+    "space": {
+      "smallest": "0.125rem",
+      "small": "0.5rem",
+      "medium": "1rem",
+      "large": "1.5rem",
+      "largest": "3rem"
+    }
+  },
+  "yags-surface": {
+    "shadow": {
+      "amount": 4,
+      "blur": 5,
+      "offset": 4,
+      "shadow": "4px 4px 5px rgb(45, 57, 117), 8px 8px 5px rgb(39.333333333333336, 50.333333333333336, 106.66666666666667), 12px 12px 5px rgb(33.666666666666664, 43.666666666666664, 96.33333333333333), 16px 16px 5px rgb(28, 37, 86)"
+    },
+    "borderRadius": 7,
+    "maxWidth": 1130
+  },
+  "yags-bookmarks": [
+    {
+      "id": "ojTBBWpONdPFHBWV",
+      "label": "Common sites",
+      "bookmarks": [
+        {
+          "id": "5sIWQ9yVAGd98O2m",
+          "label": "YouTube",
+          "url": "https://www.youtube.com"
+        },
+        {
+          "id": "fQKGCi29O3I938Ow",
+          "label": "Github",
+          "url": "https://github.com"
+        },
+        {
+          "id": "X0Rlu2DEZsvZyTrW",
+          "label": "Spotify",
+          "url": "https://open.spotify.com"
+        },
+        {
+          "id": "dGiMJA0THTbvgM6n",
+          "label": "Udemy",
+          "url": "https://www.udemy.com"
+        }
+      ]
+    },
+    {
+      "id": "bPNHP2eEpTzPNoOT",
+      "label": "Worth reading",
+      "bookmarks": [
+        {
+          "id": "kVrg38m5NWOefkEb",
+          "label": "Foss Linux",
+          "url": "https://www.fosslinux.com"
+        },
+        {
+          "id": "yIHxrA2CG92nuYaA",
+          "label": "LinuxHint",
+          "url": "https://linuxhint.com"
+        },
+        {
+          "id": "phsTr61XeRgN6vyB",
+          "label": "HackerNews",
+          "url": "https://thehackernews.com"
+        },
+        {
+          "id": "85Djnvk0W1bltt8e",
+          "label": "MDN docs",
+          "url": "https://developer.mozilla.org/en-US/docs/Web"
+        }
+      ]
+    },
+    {
+      "id": "MHPKWEzRAnKLo2fK",
+      "label": "Reddit",
+      "bookmarks": [
+        {
+          "id": "5Dur1W9xPE1YHWbf",
+          "label": "r/unixporn",
+          "url": "https://www.reddit.com/r/unixporn/"
+        },
+        {
+          "id": "B38AUZG8Zc7Ymgyc",
+          "label": "r/i3wm",
+          "url": "https://www.reddit.com/r/i3wm/"
+        },
+        {
+          "id": "NDZihQpNM2gtZAiL",
+          "label": "r/linuxprojects",
+          "url": "https://www.reddit.com/r/linuxprojects/"
+        },
+        {
+          "id": "ps1x62SEiRpFUuJf",
+          "label": "r/neovim",
+          "url": "https://www.reddit.com/r/neovim/"
+        }
+      ]
+    },
+    {
+      "id": "6JHyEE5YlcJL22jL",
+      "label": "Study",
+      "bookmarks": [
+        {
+          "id": "56VqByioKgTZ6kzO",
+          "label": "JavaPoint",
+          "url": "https://www.javatpoint.com"
+        },
+        {
+          "id": "MFYwLPV6jGeVhvTg",
+          "label": "Programiz",
+          "url": "https://www.programiz.com"
+        },
+        {
+          "id": "NHX13zkHvw0jY6zl",
+          "label": "GeeksForGeeks",
+          "url": "https://www.geeksforgeeks.org"
+        },
+        {
+          "id": "TS68406RpSXk1URl",
+          "label": "W3School",
+          "url": "https://www.w3schools.com"
+        }
+      ]
+    },
+    {
+      "id": "DLdbJKNBycvLf1m9",
+      "label": "Code Practice",
+      "bookmarks": [
+        {
+          "id": "hF0uUmF1Cs07UEG8",
+          "label": "LeetCode",
+          "url": "https://leetcode.com"
+        },
+        {
+          "id": "U6PrmLKRmVwgEkQK",
+          "label": "HackerRank",
+          "url": "https://www.hackerrank.com"
+        },
+        {
+          "id": "w8P3usMWZJ5CX9ce",
+          "label": "CodePen",
+          "url": "https://codepen.io/trending"
+        },
+        {
+          "id": "PfON9HCVv9B151vx",
+          "label": "CodeChef",
+          "url": "https://www.codechef.com"
+        }
+      ]
+    }
+  ]
+}
