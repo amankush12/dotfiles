@@ -1,0 +1,70 @@
+[cursor]
+unfocused_hollow = true
+
+[cursor.style]
+shape = "Beam"
+blinking = "Never"
+
+[env]
+TERM = "xterm-256color"
+WINIT_X11_SCALE_FACTOR = '1.5'
+
+[font]
+size = 12
+
+[font.glyph_offset]
+y = 9
+
+[font.normal]
+family = "SFMono Nerd Font"
+
+[font.offset]
+y = 10
+
+[scrolling]
+history = 2000
+
+[window]
+decorations = "none"
+opacity = 0.7
+
+[window.dimensions]
+columns = 80
+lines = 20
+
+[window.padding]
+x = 15
+y = 7 
+
+[window.position]
+x = 400 
+y = 100
+
+[selection]
+save_to_clipboard = true
+
+# Dracula theme
+[colors.bright]
+black = "#575b70"
+blue = "#caa9fa"
+cyan = "#9aedfe"
+green = "#5af78e"
+magenta = "#ff92d0"
+red = "#ff6e67"
+white = "#e6e6e6"
+yellow = "#f4f99d"
+
+[colors.normal]
+black = "#000000"
+blue = "#caa9fa"
+cyan = "#8be9fd"
+green = "#50fa7b"
+magenta = "#ff79c6"
+red = "#ff5555"
+white = "#bfbfbf"
+yellow = "#f1fa8c"
+
+[colors.primary]
+background = "#282a36"
+foreground = "#f8f8f2"
+
